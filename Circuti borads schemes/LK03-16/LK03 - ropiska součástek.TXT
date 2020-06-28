@@ -1,0 +1,15 @@
+EAGLE Version 3.02 Copyright (c) 1988,94 CadSoft
+
+Partlist  exported from LK03_16.SCH at 27.02.2016 13.19.37 
+
+Part     Value      Device     Package  Library  Sheet
+
+AUTO     P11S       P11S       P11S     SPECIAL  1
+DATUM    B170H      P11S       P11S     SPECIAL  1
+H/D      B170H      P11S       P11S     SPECIAL  1
+K1       PSL-10     HD-10      HD-10    CONNECT  1
+MIN/MES  B170H      P11S       P11S     SPECIAL  1
+P1       TP161 1KN  TP160      TP161    DISCRETE 1
+RST      B170H      P11S       P11S     SPECIAL  1
+SEK/ROK  B170H      P11S       P11S     SPECIAL  1
+SET      B170H      P11S       P11S     SPECIAL  1

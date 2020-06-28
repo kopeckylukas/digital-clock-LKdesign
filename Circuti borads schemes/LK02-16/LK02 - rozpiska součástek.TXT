@@ -1,0 +1,43 @@
+EAGLE Version 3.02 Copyright (c) 1988,94 CadSoft
+
+Partlist  exported from LK02_16.SCH at 27.02.2016 13.16.17 
+
+Part     Value      Device     Package  Library  Sheet
+
+B1       BAT_2032   BAT_LIT    BAT_LIT  SPECIAL  1
+C1       33p        CAPNP-5    C-5      DISCRETE 1
+C2       33p        CAPNP-5    C-5      DISCRETE 1
+C3       100n       CAPNP-5    C-5      DISCRETE 1
+C4       10M/25V    ELC-2,5    ES-2,5   DISCRETE 1
+C5       100n       CAPNP-5    C-5      DISCRETE 1
+C6       100n       CAPNP-5    C-5      DISCRETE 1
+C7       100n       CAPNP-5    C-5      DISCRETE 1
+C8       2,2mF/25V  ELC-2,5    ES-2,5   DISCRETE 1
+C9       10M/25V    ELC-2,5    ES-2,5   DISCRETE 1
+C10      100M/16V   ELC-2,5    ES-2,5   DISCRETE 1
+C11      10M/16V    ELC-2,5    ES-2,5   DISCRETE 1
+D1       LED-B      LEDMALA    LEDMALA  SEMICON  1
+D2       1N4148     1N4148     D-7,5    SEMICON  1
+D3       1N4148     1N4148     D-7,5    SEMICON  1
+D4       LED-R      LEDMALA    LEDMALA  SEMICON  1
+D5       LED-G      LEDMALA    LEDMALA  SEMICON  1
+F1       FAS        FAS        FAS      SPECIAL  1
+F2       FAS        FAS        FAS      SPECIAL  1
+IC1      RTC72421   RTC72421   DIL-18   SPECIAL  1
+IC2      LM317T     317T       TO-220A  LINEAR   1
+IC3      7805       78XXT      TO-220A  LINEAR   1
+IC4      8051       8051       DIL-40   INEMBED  1
+IC5      W06M       B40R       RB1F     SEMICON  1
+K1       PSL-16     HD-16      HD-16    CONNECT  1
+K2       PSL-10     HD-10      HD-10    CONNECT  1
+K3       PSH04      PSH04      PSH04    CONNECT  1
+Q1       12 MHz     XTAL       Q        SPECIAL  1
+R1       2K2        RESEU-10   R-10     DISCRETE 1
+R2       8K2        RESEU-10   R-10     DISCRETE 1
+R3       220R       RESEU-10   R-10     DISCRETE 1
+R4       330R       RESEU-10   R-10     DISCRETE 1
+R5       1K         RESEU-10   R-10     DISCRETE 1
+R6       1K2        RESEU-10   R-10     DISCRETE 1
+R7       680R       RESEU-10   R-10     DISCRETE 1
+R8       560R       RESEU-10   R-10     DISCRETE 1
+RN1      8x10K      RN08       RN-9     DISCRETE 1
