@@ -3,6 +3,8 @@
 
 The digital clock hardware and software is a result of a Final-Year Project at <b>SŠIEŘ Rožnov pod Radhoštěm </b> (Czech Republic) as part of <b>Maturita Exam</b> (A-levels equivalent). All hardware, circuit boards schematics and software written in assembly language are available through an open-source licence.
 
+![Clock_figure1](Clock_figure1.png)
+
 ## About the Project
 <b>Hardware</b><br>
 A custom architecture based on Intel Microcontroler <b>i8051/MCS-51</b> *(8-bit, 128B RAM, 4x 8-bit paraler ports, 24MHz)*. Seven-segment displays are controlled by additional drivers and their intensity is adjustable by a potentiometer on the back panel. Chassis was custom made by SSI Schäfer, s.r.o. <br>
