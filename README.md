@@ -1,4 +1,4 @@
-# Digital_Clock
+# Digital Clock
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 The digital clock hardware and software is a result of a Final-Year Project at <b>SŠIEŘ Rožnov pod Radhoštěm </b> (Czech Republic) as part of <b>Maturita Exam</b> (A-levels equivalent). All hardware, circuit boards schematics and software written in assembly language are available through an open-source licence.
